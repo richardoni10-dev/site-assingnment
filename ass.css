@@ -1,0 +1,77 @@
+.section-part {
+    display: flex;
+    justify-content: space-between;
+}
+.left-div {
+    justify-content: center;
+    margin-top: 150px;
+    padding-left: 50px;
+    font-size: larger;
+    font-family: roboto;
+    
+}
+.right-div {
+    background-size: contain;
+    columns: 50px;
+}
+.logo-img {
+    width: 200px;
+    height: 100px;
+}
+.user-login {
+    font-size: 22px;
+    font-weight: 300;
+}
+.profile-img {
+    width: 1000px;
+    height: 700px;
+}
+.username-p {
+margin-bottom: 12px;
+padding: 15px;
+padding-right: 130px;
+padding-left: 0.9rem;
+background-origin: white;
+position: absolute;
+}
+.password-p {
+margin-bottom: 12px;
+padding: 15px;
+padding-right: 130px;
+padding-left: 0.9rem;
+background-origin: white;
+position: absolute;
+}
+.sign-p {
+margin-bottom: 12px;
+width: 310px;
+height: 50px;
+background-color: #35aa47;
+} 
+.sign-p:hover { 
+    cursor: pointer;
+    background-color:  #424242;
+}
+.f-p {
+    margin-bottom: 10px;
+}
+.f-p:hover {
+    cursor: pointer;
+}
+.letter {
+    position: relative;
+    padding-top: 14px;
+    padding-left: 280px;
+    padding-bottom: 40px;
+}
+.key {
+position: relative;
+position: relative;
+    padding-top: 14px;
+    padding-left: 280px;
+    padding-bottom: 40px;
+}
+
+.key-b {
+    width: -10px;
+}
