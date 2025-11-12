@@ -29,17 +29,17 @@
 .username-p {
 margin-bottom: 12px;
 padding: 15px;
-padding-right: 130px;
+width: 280px;
 padding-left: 0.9rem;
-background-origin: white;
+background-color: white;
 position: absolute;
-}
+} 
 .password-p {
 margin-bottom: 12px;
 padding: 15px;
-padding-right: 130px;
+width: 280px;
 padding-left: 0.9rem;
-background-origin: white;
+background-color: white;
 position: absolute;
 }
 .sign-p {
@@ -74,4 +74,4 @@ position: relative;
 
 .key-b {
     width: -10px;
-}
+} 
